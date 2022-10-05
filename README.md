@@ -1,6 +1,6 @@
-### Hi there I’m Thomas!👋
+### Hi there I’m Thomas!
 # About Me:
-🔭 I’m currently working on<br>🌱 I’m currently learning<br>⚡ Learning Js
+🔭 I’m currently working on<br><br>⚡ Learning Js
 
 
 ## 🌐 Socials:
