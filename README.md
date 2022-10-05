@@ -1,7 +1,7 @@
 ### Hi there I’m Thomas! 🎴
 # About Me:
-🖥️ I’m currently working on<br><br>⚡🫰🏻 Learning Js
-
+🖥️ I’m currently working on<br><br>⚡ Learning Js && Phyton
+ 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thomas-romero-05a508245/) 
